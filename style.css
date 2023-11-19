@@ -20,6 +20,10 @@ hr {
   opacity: 1;  
 }
 
+.buffer {
+  height: 10rem;
+}
+
 .btn-xl {
   padding: 1rem 2rem;
   background-color: #F05F44;
